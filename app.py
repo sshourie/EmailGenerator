@@ -5,7 +5,7 @@ import os
 
 if __name__== '__main__':
     # add a github repo link. see: https://ghbtns.com/
-    IFRAME = '<iframe src="https://ghbtns.com/github-btn.html?user=sshourie&repo=Folium_map&type=star&size=large&text=false" frameborder="0" scrolling="0" width="40" height="30" title="GitHub"></iframe>'
+    IFRAME = '<iframe src="https://ghbtns.com/github-btn.html?user=sshourie&repo=EmailGenerator&type=star&size=large&text=false" frameborder="0" scrolling="0" width="40" height="30" title="GitHub"></iframe>'
 
     st.set_page_config(
         page_title="GPT Email Generator",
